@@ -1,78 +1,77 @@
 * {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
   #Receta {
-  text-align: end;
-  padding: 0px;
+    text-align: end;
+    padding: 0px;
   }
-  }
-  #contenedor {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    padding: 0;
-  }
-  .flotar {
-    width: 130px;
-    height: 30px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    font-weight: 800;
-    border-radius: 40px;
-    padding: 5px;
-    background-color: green;
-  }
-  #links {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-  div {
-    background-color: rgb(1, 93, 1);
-    border-radius: 30px;
-    padding: 15px;
-    border-style: ridge;
-    margin: 0px;
-    margin-bottom: 10px;
-  }
-  #identified {
-    text-align: center;
-    background-image: url(../images/hero.jpg);
-    padding: 80px;
-  
-    color: white;
-    border: 30px;
-    border-style: initial;
-  }
-  
-  body,
-  #contenedor {
-    background-color: #f3e5d8;
-  }
-  h2,
-  h3 {
-    color: #7e4333;
-  }
-  
-  td,
-  tr {
-    padding: 20px, 20px;
-    border-bottom: 1px solid black;
-    margin-right: 400px;
-    text-align: center;
-  }
-  table {
+}
+#contenedor {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+}
+.flotar {
+  width: 130px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-weight: 800;
+  border-radius: 40px;
+  padding: 5px;
+  background-color: green;
+}
+#links {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+div {
+  background-color: rgb(1, 93, 1);
+  border-radius: 30px;
+  padding: 15px;
+  border-style: ridge;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+#identified {
+  text-align: center;
+  background-image: url(../img/hero.jpg);
+  padding: 80px;
+
+  color: white;
+  border: 30px;
+  border-style: initial;
+}
+
+body,
+#contenedor {
+  background-color: #f3e5d8;
+}
+h2,
+h3 {
+  color: #7e4333;
+}
+
+td,
+tr {
+  padding: 20px, 20px;
+  border-bottom: 1px solid black;
+  margin-right: 400px;
+  text-align: center;
+}
+table {
   padding: auto;
   margin: 0px;
   width: 100%;
-  }
-  section {
-    background-color: white;
-    margin-top: 30px;
-    padding: 10px;
-  }
-  ul {
-    margin-left: 0px;
-  }
-  
+}
+section {
+  background-color: white;
+  margin-top: 30px;
+  padding: 10px;
+}
+ul {
+  margin-left: 0px;
+}
